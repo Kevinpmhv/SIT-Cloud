@@ -1,7 +1,12 @@
 # SIT-Cloud
 
-* Stars align, bestow your light
-* evil purged by thunder's might
-* Spirit curbeb, pneuma surge
-* By dictum divine, heed these words
-* Do as i command!.
+* This is repository for student of SIT
+* add new file of python for web server
+* git add .
+* git commit -m "update readme file"
+* git push
+* git branch prod
+* git checkout prod
+* git push --set-upstream origin prod
+* git branch dev
+* git checkout dev
